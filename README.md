@@ -1,5 +1,5 @@
 # Detalles
-Creación de un arreglo de Contadores 
+Creación de un arreglo de Contadores en react
 # Este contador extiende de la Clase Component
 Aquí los estados se manejan mediante this.state && this.setState()
 
