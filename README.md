@@ -1,3 +1,8 @@
+# Detalles
+Creación de un arreglo de Contadores 
+# Este contador extiende de la Clase Component
+Aquí los estados se manejan mediante this.state && this.setState()
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
